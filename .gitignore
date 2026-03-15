@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Mac OS junk files
+.DS_Store
+
+# RAHASIA NEGARA (JANGAN SAMPAI KE-UPLOAD!)
+.env
