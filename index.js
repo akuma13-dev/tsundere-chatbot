@@ -13,5 +13,5 @@ app.use(express.static('public'));
 app.use('/chat', chatRoutes);
 
 app.listen(port, () => {
-    console.log(`Server modular Aira jalan di http://localhost:${port}`);
+    console.log(`Server modular Mini-chan jalan di http://localhost:${port}`);
 });
